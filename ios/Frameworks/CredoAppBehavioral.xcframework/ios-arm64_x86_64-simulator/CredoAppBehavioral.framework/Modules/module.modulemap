@@ -1,0 +1,4 @@
+framework module CredoAppBehavioral {
+  header "CredoAppBehavioral-Swift.h"
+  requires objc
+}
